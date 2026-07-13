@@ -2,7 +2,7 @@
 
 A simple MATLAB GUIDE application for real-time temperature conversion between Celsius, Fahrenheit, and Kelvin.
 
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/154b0948-c1cd-46ca-9afe-07119893dfe1" />
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/154b0948-c1cd-46ca-9afe-07119893dfe1" />
 
 
 ## Features
